@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Slide Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Hello  fragment</string>
+    <string name="tab_text_2">Hello  fragment</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">1CAK App</string>
+    <string name="slide_1_desc">The easiest way to see memes from 1CAK Website!</string>
+
+    <string name="slide_2_title">New Memes Every day!</string>
+    <string name="slide_2_desc">Always Update with Memes that Viral Recently!</string>
+
+    <string name="slide_3_title">Easy To Use and Simple UI !</string>
+    <string name="slide_3_desc">Explore Internet Memes with ease!</string>
+
+    <string name="slide_4_title">Join Now!</string>
+    <string name="slide_4_desc">Register/Sign Up Now!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
